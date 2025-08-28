@@ -17,7 +17,7 @@ export type UseStreamerbotReturn = {
   client?: StreamerbotClient
 }
 
-export default function useStreamerbot(
+export function useStreamerbot(
   options: UseStreamerbotOptions
 ): UseStreamerbotReturn {
   const [data, setData] = useState<unknown>()
