@@ -3,13 +3,14 @@
 [Full Documentation](https://streamerbot.github.io/client/)
 
 ## 🌈 Demo
+
 No demo yet, but all functionality on [Streamer.bot Toolkit](https://toolkit.streamer.bot) is utilizing the vue client library, so you could check that and transform accordingly.
 
 ## 📦 Installation
 
 Package Manager
 
-```
+```bash
 yarn add @streamerbot/client streamerbot-react
 
 npm install @streamerbot/client streamerbot-react
@@ -41,11 +42,12 @@ Check out the [docs](https://streamerbot.github.io/client/) for more usage examp
 ## 🌸 Thanks
 
 - [nate1280](https://github.com/nate1280) for creating Streamer.bot
-- [https://github.com/whipstickgostop](https://github.com/whipstickgostop) for creating the vue client library which this is heavily based on
-
+- [whipstickgostop](https://github.com/whipstickgostop) for creating the vue client library which this is heavily based on
 
 ## 👨‍🚀 Contributors
+
 [bsides](https://github.com/bsides)
 
 ## 📄 License
+
 MIT License © 2025-Present [bsides](https://github.com/bsides)
